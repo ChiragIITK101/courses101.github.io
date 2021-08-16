@@ -1,0 +1,84 @@
+
+.anim{
+	display: flex;
+	align-content: center;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+body{
+	background-image: url(bg.jpg);
+	background-size: cover;
+}
+h1{
+	color: grey;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Secular One', sans-serif;
+}
+h2{
+	color: grey;
+	text-align: center;
+	font-family: 'Secular One', sans-serif;
+}
+.temp{
+	text-align: center;
+	font-size: 200%;
+	font-family: 'Bree Serif', serif;
+	margin-top: 10px;
+	
+}
+
+.intro{
+	border: 4px solid purple;
+	font-family: 'Gabriela', serif;;
+	padding-top: 15px;
+	padding-left: 15px;
+	margin-left: 15px;
+	margin-bottom: 20px;
+	margin-right: 15px;
+	color: purple;
+	font-size: 180%
+
+}
+.indv1{
+	margin-bottom: 25px;
+	margin-left: 15px;
+	font-family: 'Bree Serif', serif;
+	margin-right: 15px;
+}
+
+.btn-group{
+	display: inline-block;
+    margin: 5px; /* space between buttons */
+    color: #333; /* text color */
+    font-size: 1.5em;
+    font-family: ‘Georgia’, serif;
+    border-radius: 50px; /* rounded corners */
+    padding: 8px 16px; /* space around text */
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+.cont-icon{
+	background-color: rgb(208, 236, 240);
+}
+
+.hr1{
+	background-color: red;
+	height: 2px;
+}
+
+.contact{
+	color:#333;
+	font-family: 'Gabriela', serif;;
+	font-size: 1.5em;
+}
+
+
+
+
+
